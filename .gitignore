@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+setu.db
+setu.db-wal
+setu.db-shm
+.venv/
